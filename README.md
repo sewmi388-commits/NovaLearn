@@ -1,5 +1,7 @@
 # NovaLearn - E-Learning Platform
 
+![NovaLearn](https://img.shields.io/badge/NOVALEARN-E--LEARNING%20PLATFORM-FFD700?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/NODE.JS-RUNTIME-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/EXPRESS-5.2.1-000000?style=for-the-badge&logo=express&logoColor=white)
+
 NovaLearn is an interactive E-Learning Platform designed to provide high-quality educational content across various domains like Web Development, Cyber Security, and Data Science. The platform offers structured courses, individual lessons, and built-in quizzes to assess knowledge and track progress.
 
 ## Features
